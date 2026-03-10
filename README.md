@@ -7,4 +7,4 @@ Interested in software architecture, API Design and tooling.
 
 🧪 Currently learning about [API architecture](https://www.oreilly.com/library/view/mastering-api-architecture/9781492090625/).
 
-🌱 Building 🪴
+🌱 Building something
